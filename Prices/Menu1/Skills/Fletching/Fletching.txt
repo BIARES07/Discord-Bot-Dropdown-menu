@@ -1,0 +1,16 @@
+- **Fletching - Darts**
+**1-52** Various
+[0.000008 $/xp] **XP** 123,660
+**52-99** Darts
+[0.000004 $/xp] **XP** 12,910,771
+
+- **Fletching - Bows**
+**1-50** Bows
+[0.000008 $/xp] **XP** 101,333
+
+- **Flectching - Bows**
+**50-99** Bows
+[0.000005 $/xp] **XP** 12,933,098
+
+
+For more detailed prices, please go to #price-check and use the following command: ```!s fletching 1-99```

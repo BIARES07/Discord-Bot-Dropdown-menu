@@ -1,0 +1,86 @@
+**Ardougne**
+
+Easy: $0.79
+Medium: $1.00
+Hard: $2.15
+Elite: $2.50
+
+**Desert**
+
+Easy: $0.65
+Medium: $1.00
+Hard: $2.48
+Elite: $2.90
+
+**Falador**
+
+Easy: $0.79
+Medium: $1.50
+Hard: $2.82
+Elite: $3.58
+
+**Fremennik**
+
+Easy: $1.10
+Medium: $1.10
+Hard: $2.25
+Elite: $3.58
+
+**Kandarin**
+
+Easy: $0.59
+Medium: $2.25
+Hard: $2.44
+Elite: $3.07
+
+**Karamja**
+
+Easy: $0.85
+Medium: $1.83
+Hard: $2.20
+Elite: $2.75
+
+**Kourend**
+
+Easy: $1.00
+Medium: $1.83
+Hard: $2.20
+Elite: $6.20
+
+**Lumbridge**
+
+Easy: $0.79
+Medium: $1.00
+Hard: $2.20
+Elite: $3.44
+
+**Morytania**
+
+Easy: $0.79
+Medium: $1.70
+Hard: $2.20
+Elite: $2.75
+
+**Varrock***
+
+Easy: $0.79
+Medium: $1.70
+Hard: $2.20
+Elite: $2.50
+
+**Western Provinces**
+
+Easy: $0.79
+Medium: $2.20
+Hard: $3.44
+Elite: $4.25
+
+**Wilderness**
+
+Easy: $0.79
+Medium: $0.85
+Hard: $3.44
+Elite: $4.30
+
+
+*None of the prices above include prerequisites (i.e. skills, quests, boss kills, etc.)*

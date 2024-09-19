@@ -1,0 +1,23 @@
+- **Thieving - Blackjacking**
+**1-55** Various Methods
+[0.000030 $/xp] **XP** 166,636
+**55-80** Blackjacking
+[0.000019 $/xp] **XP** 1,819,432
+**80-99** Blackjacking
+[0.000013 $/xp] **XP** 11,048,363
+
+- **Thieving - Ardy Knights (No Diary)**
+**1-55** Various Methods
+[0.000030 $/xp] **XP** 166,636
+**55-99** Ardy Knights (No Diary)**
+[0.000013 $/xp] **XP** 12,867,795
+
+- **Thieving - Ardy Knights (Diary)**
+**1-55** Various Methods
+[0.000030 $/xp] **XP** 166,636
+**55-99** Ardy Knights - With Diary
+[0.000010 $/xp] **XP** 12,867,795
+
+
+For more detailed prices, please go to #price-check and use the following command: ```!s attack 1-99```
+ 

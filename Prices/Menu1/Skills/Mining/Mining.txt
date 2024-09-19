@@ -1,0 +1,25 @@
+- **Powermining**
+**1-30** Powermining
+[0.000063 $/xp] **XP** 13,363
+**30-61** Powermining
+[0.000040 $/xp] **XP** 288,925
+**61-99** Powermining
+[0.000030 $/xp] **XP** 12,732,143
+
+- **Motherlode Mine - Lower**
+**1-30** Powermining
+0.000063 $/xp XP 13,363
+**30-72** Motherload Mine - Lower
+[0.000035 $/xp] **XP** 885,894
+**72-99** Motherload Mine - Lower
+[0.000019 $/xp] **XP** 12,135,174
+
+- **Motherlode Mine - Upper**
+**1-30** Powermining
+[0.000063 $/xp] **XP** 13,363
+**30-72** Motherload Mine - Lower
+[0.000025 $/xp] **XP** 885,894
+**72-99** Motherload Mine - Upper
+[0.000015 $/xp] **XP** 12,135,174
+
+For more detailed prices, please go to #price-check and use the following command: ```!s mining 1-99```

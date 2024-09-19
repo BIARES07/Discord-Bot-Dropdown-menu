@@ -1,0 +1,24 @@
+- **POH - Dragon Bones**
+**1-99** Dragon Bones
+[0.000004 $/xp] **XP** 13,034,431
+
+- **POH - Superior Bones**
+**1-70** Dragon Bones
+[0.000004 $/xp] **XP** 737,627
+**70-99** Superior Bones
+[0.000003 $/xp] **XP** 12,296,804
+
+- **Wilderness - Dragon Bones**
+**1-99** Dragon Bones
+[0.000005 $/xp] **XP** 13,034,431
+
+- **Wilderness - Dagannoth Bones**
+**1-99** Dagannoth Bones
+[0.000003 $/xp] **XP** 13,034,431
+
+- **Wilderness - Superior Bones**
+**1-99** Superior Bones
+[0.000003 $/xp] **XP** 13,034,431
+
+
+For more detailed prices, please go to #price-check and use the following command: ```!s prayer 1-99```

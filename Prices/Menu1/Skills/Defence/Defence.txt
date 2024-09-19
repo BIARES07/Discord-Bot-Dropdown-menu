@@ -1,0 +1,19 @@
+- **Defence - Sand Crabs**
+**1-60** Sand Crabs
+[0.000022 $/xp] **XP** 273,742
+**60-99** Sand Crabs
+[0.000005 $/xp] **XP** 12,760,689
+
+- **Defence - NMZ Prayer**
+**1-60** Sand Crabs
+[0.000022 $/xp] **XP** 273,742
+**60-99** Nmz - Prayer
+[0.000004 $/xp] **XP** 12,760,689
+
+- **Defence - NMZ Absorption**
+**1-60** Sand Crabs
+[0.000022 $/xp] **XP** 273,742
+**60-99** Nmz - Absorption
+[0.000004 $/xp] **XP** 12,760,689
+
+For more detailed prices, please go to #price-check and use the following command: ```!s defence 1-99``` 

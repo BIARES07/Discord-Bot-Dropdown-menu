@@ -1,0 +1,14 @@
+- **Crafting - Various**
+**1-84** Various Method
+[0.000012 $/xp] **XP** 2,951,373
+
+- **Crafting - Dhide Bodies**
+**84-99** Crafting Dhide Bodies
+[0.000004 $/xp] **XP** 10,083,058
+
+- **Crafting - Battlestaves**
+**84-99** Crafting Battlestaves
+[0.000005 $/xp] **XP** 10,083,058
+
+
+For more detailed prices, please go to #price-check and use the following command: ```!s crafting 1-99``` 

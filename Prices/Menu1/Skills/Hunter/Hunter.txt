@@ -1,0 +1,12 @@
+- **Hunter - Various**
+**1-29** Various Methods
+[0.000037 $/xp] **XP** 12,031
+**29-63** Salamanders
+[0.000035 $/xp] **XP** 356,568
+**63-80** Salamanders
+[0.000016 $/xp] **XP** 1,617,469
+**80-99** Salamanders
+[0.000013 $/xp] **XP** 11,048,363
+
+
+For more detailed prices, please go to #price-check and use the following command: ```!s hunter 1-99```

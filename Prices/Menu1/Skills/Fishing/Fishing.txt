@@ -1,0 +1,12 @@
+- **Fishing**
+**1-20** Net Fishing
+[0.000035 $/xp] **XP** 4,470
+**20-58** Fly Fishing
+[0.000020 $/xp] **XP** 219,996
+**58-72** Barbarian Fishing
+[0.000015 $/xp] **XP** 674,791
+**72-99** Barbarian Fishing
+[0.000010 $/xp] **XP** 12,135,174
+
+
+For more detailed prices, please go to #price-check and use the following command: ```!s fishing 1-99```

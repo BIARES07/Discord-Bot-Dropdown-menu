@@ -1,0 +1,14 @@
+- **Cooking - Fish
+**1-35** Various Methods
+[0.000013 $/xp] **XP** 22,406
+**40-99** Fish
+[0.000005 $/xp] **XP** 12,997,207
+
+- **Cooking - Wines**
+**1-40** Various Methods
+[0.000013 $/xp] **XP** 37,224
+**40-99** Wines
+[0.000003 $/xp] **XP** 12,997,207
+
+
+For more detailed prices, please go to #price-check and use the following command: ```!s cooking 1-99``` 

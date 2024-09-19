@@ -1,0 +1,14 @@
+- **Slayer**
+**1-18** Best Slayer Master
+[0.000125 $/xp] **XP** 3,523
+**18-35** Best Slayer Master
+[0.000087 $/xp] **XP** 18,883
+**35-65** Best Slayer Master
+[0.000040 $/xp] **XP** 427,022
+**65-93** Best Slayer Master
+[0.000032 $/xp] **XP** 6,710,134
+**93-99** Best Slayer Master
+[0.000020 $/xp] **XP** 5,874,869
+
+
+For more detailed prices, please go to #price-check and use the following command: ```!s slayer 1-99```  

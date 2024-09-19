@@ -1,0 +1,20 @@
+- **Construction - Oak**
+**1-52** Chairs / Oak Larders
+[0.000016 $/xp] **XP** 123,660
+*52-99* Oak Tables
+[0.000006 $/xp] **XP** 12,910,771
+
+- **Construction - Teak**
+**1-52** Chairs / Oak Larders
+[0.000016 $/xp] **XP** 123,660
+**52-99** Teak Bench
+[0.000005 $/xp] **XP** 12,910,771
+
+- **Construction - Mahogany**
+**1-52** Chairs / Oak Larders
+[0.000016 $/xp] **XP** 123,660
+**52-99** Mahogany Tables
+[0.000004 $/xp] **XP** 12,910,771
+
+
+For more detailed prices, please go to #price-check and use the following command: ```!s construction 1-99```

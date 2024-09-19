@@ -1,0 +1,18 @@
+- **1-25 Rooftops**
+[0.000185 $/xp] **XP** 7,842
+
+- **25-50 Rooftops**
+[0.000051 $/xp] **XP** 93,491
+
+- **50-60 Rooftops**
+[0.000030 $/xp] **XP** 172,409
+
+- **60-90 Rooftops**
+[0.000018 $/xp] **XP** 5,072,590
+
+- **90-99 Rooftops**
+[0.000015 $/xp] **XP** 7,688,099
+
+
+For more detailed prices, please go to #price-check and use the following command: ```!s agility 1-99```
+

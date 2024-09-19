@@ -1,0 +1,14 @@
+- **Firemaking - Logs**
+**1-50** Logs
+[0.000014 $/xp] **XP** 101,333
+**50-99** Logs
+[0.000006 $/xp] **XP** 12,933,098
+
+- **Firemaking - Wintertodt**
+**1-50** Logs
+[0.000019 $/xp] **XP** 101,333
+**50-99** Wintertodt
+[0.000005 $/xp] **XP** 12,933,098
+
+
+For more detailed prices, please go to #price-check and use the following command: ```!s firemaking 1-99``` 

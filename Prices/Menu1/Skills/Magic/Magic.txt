@@ -1,0 +1,32 @@
+- **Magic - Crabs**
+**1-60** Sand Crabs
+[0.000007 $/xp] **XP** 273,742
+**60-99** Sand Crabs
+[0.000006 $/xp] **XP** 12,760,689
+
+- **Magic - NMZ Prayer**
+**1-60** Sand Crabs
+[0.000007 $/xp] **XP** 273,742
+**60-99** Nmz - Prayer Pots
+[0.000009 $/xp] **XP** 12,760,689
+
+- **Magic - NMZ Absorption**
+**1-60** Sand Crabs
+[0.000007 $/xp] **XP** 273,742
+**60-99** Nmz - Absorption Pots
+[0.000010 $/xp] **XP** 12,760,689
+
+- **Magic - MM1**
+**1-70** Sand Crabs
+[0.000007 $/xp] **XP** 737,627
+**70-99** MM1 Caves
+[0.000005 $/xp] **XP** 12,296,804
+
+- **Magic - MM2**
+**1-70** Sand Crabs
+[0.000007 $/xp] **XP** 737,627
+**70-99** MM2 Caves
+[0.000004 $/xp] **XP** 12,296,804
+
+
+For more detailed prices, please go to #price-check and use the following command: ```!s magic 1-99```

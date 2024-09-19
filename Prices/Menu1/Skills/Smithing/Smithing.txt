@@ -1,0 +1,15 @@
+Smithing - Various
+**1-40** Various Methods
+[0.000015 $/xp] **XP** 37,224
+
+- **Smithing - Platebodies**
+**40-99** Best Platebodies
+[0.000008 $/xp] **XP** 12,997,207
+
+- **Smithing - Blast Furnace**
+**40-99** Goldsmith Gauntlets
+[0.000005 $/xp] XP 12,997,207
+
+
+For more detailed prices, please go to #price-check and use the following command: ```!s smithing 1-99```
+  

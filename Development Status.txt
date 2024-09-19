@@ -1,0 +1,27 @@
+# Slashz Bot | Current Version: V1.83
+
+## Developer: @BIARES
+## UID: 551987692015976459
+
+## Changelogs:
+
+### (12/2023) V1.01
+
+* Dropdown menu added
+* Custom commands added
+* Improvements added to the dropdown menu
+* Some errors were corrected
+* New commands were added
+
+### (01/2024) V1.83
+
+* "Final" version of the dropdown menu completed
+* First integrations added (slash commands)
+* Command to post current rates added (/gp_rates)
+* New custom commands added
+* Permission handling in custom commands added
+
+### (02/2024) V1.87
+
+* updated menu
+* calculator added

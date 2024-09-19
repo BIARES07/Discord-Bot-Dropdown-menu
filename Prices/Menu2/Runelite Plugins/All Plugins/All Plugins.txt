@@ -1,0 +1,118 @@
+**[P] Auto Spec**
+- Includes GearSwapping
+- Switches Prayer
+- Preset Combos
+- XP Threshold Support
+- Hotkey Trigger
+
+**[P] BankStander**
+- General making (Wines/unf potions/Stringing bows)
+- Magic (Stun-Alch/Tele-Alch/Alch/Tele/1T enchanting bolts/Enchanting Jewelry)
+- Anvil Smithing (anvil must be close to bank)
+- Cooking (no 1t karam support, soonTM)
+- Cleaning herbs
+- Crafting (D'hide/Gems/Molten Glass)
+- Dart Making
+- Stringing Jewelry
+
+**[P] AutoEat**
+- Supports Single/Double/Triple Eating
+- HP Threshold
+- Hotkey Trigger
+
+**[P] AutoPot**
+- Automatically drinks potions
+
+**[P] PVP Utilities**
+- Auto Prayer Switcher (custom item IDs)
+- Support for Weapon/Helmet/Body/Legs trigger
+- Highlights target
+
+**[P] GearSwapper**
+- 1 tick everything
+- Cast Spell
+- Prayer
+- Hotkey walk under target
+- Enable spec on gearswap
+- GearSwapping
+
+**[P] Pest Control**
+- Supports all boats
+- Spec support
+- Prayer support
+- Prioritize portal
+
+**[P] Prayer**
+- 1T bones support
+- w330 Rimmington Support
+- Find New POH support (when person hosting logs)
+- Wildy Altar Support
+- Logs out if attackable
+
+**[P] ChinBurst**
+- Burst/chin support
+- Stack support
+- Min/Max prayer threshold
+- Offensive prayer support
+- tele when out of chins/runes
+- MM1 support
+- MM2 support
+
+**[P] PvM Swapper (BETA)**
+- Jad
+- Vorkath
+- Hunllef
+- TOA
+- Phantom Muspah
+- Nightmare/Phosani
+
+**[P] 1T flicker**
+- Perfectly 1 tick prayer flicks
+
+**[P] NMZ Helper**
+- Auto Overload
+- Auto Absorption
+- Auto Prayer
+- Auto RockCake/Orb
+
+**[P] Fisher**
+- Auto Fishing Plugin
+
+**[P] Chopper**
+- Auto WoodCutting Plugin
+- Spec Support
+
+**[P] Miner**
+- Auto Mining Plugin
+- Spec Support
+- Mining Guild PowerMining support (ores spawn 2x faster)
+
+**[P] Hunter**
+- Salamander Support
+- Box Trap Support
+
+**[P] Thiever**
+- Auto Thieving Plugin
+- Object/NPC support
+
+**[P] ItemDropper**
+- Hotkey support
+- Full inv trigger support
+- Secific Items IDs
+
+**[P] Cannon Reloader**
+- Reloads your cannon
+
+**[P] AutoLog**
+- Teleport Support
+- Logout Support
+- Min/Max Combat Lvl Support
+- Tile Radius Support
+
+**[P] Construction**
+- Larders, capes, tables, benches (gnome and teak), and door support
+- Demon butler handling
+- Phials un-note handling
+
+
+*__$250 single price for all__*

@@ -1,0 +1,10 @@
+**Bar Smithing**
+- Gold bars - $0.50 (for 1k)
+- Steel bars - $0.75 (for 1k)
+- Mithril bars - $1.12 (for 1k)
+- Adamant bars - $1.65 (for 1k)
+- Runite bars -  $1.18 (for 1k)
+
+
+
+- Buying ores - 0.625 (for 1k) 

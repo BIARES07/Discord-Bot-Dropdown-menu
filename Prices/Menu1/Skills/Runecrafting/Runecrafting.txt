@@ -1,0 +1,28 @@
+- **Runecrafting - Lava Runes**
+**1-23** Tiaras
+[0.000043 $/xp] **XP** 6,291
+**23-50** Lava Runes
+[0.000037 $/xp] XP 95,042
+**50-75** Lava Runes
+[0.000032 $/xp] **XP** 1,109,088
+**75-99** Lava Runes
+[0.000028 $/xp] **XP** 11,824,010
+
+- **Runecrafting - Ourania Altar**
+**1-23** Tiaras
+[0.000043 $/xp] **XP** 6,291
+**23-99** Zmi
+[0.000032 $/xp] **XP** 13,028,140
+
+- **Runecrafting - Bloods**
+**1-23** Tiaras
+[0.000043 $/xp] **XP** 6,291
+**23-50** Lava Runes
+[0.000037 $/xp] **XP** 95,042
+**50-77** Lava Runes
+[0.000032 $/xp] **XP** 1,374,248
+**77-99** Bloods
+[0.000015 $/xp] XP 11,558,850
+
+
+For more detailed prices, please go to #price-check and use the following command: ```!s runecrafting 1-99```  

@@ -1,0 +1,14 @@
+- **Woodcutting**
+**1-35** Regular Trees
+[0.000025 $/xp] **XP** 22,406
+
+[Woodcutting - Teak]
+**35-90** Teak Trees
+[0.000013 $/xp] **XP** 5,323,926
+
+- **Woodcutting - Redwood**
+**90-99** Redwood Trees
+[0.000006 $/xp] XP 7,688,099
+
+
+For more detailed prices, please go to #price-check and use the following command: ```!s woodcutting 1-99``` 

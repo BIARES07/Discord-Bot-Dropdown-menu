@@ -1,0 +1,8 @@
+- **30-50 Smithing**
+Price: **$0.0044**  
+- **50-70 Smithing**
+Price: **$0.0039**  
+- **70-85 Smithing**
+Price: **$0.0035**  
+- **85-99 Smithing**
+Price: **$0.0032**  

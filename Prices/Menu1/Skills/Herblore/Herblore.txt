@@ -1,0 +1,10 @@
+- **Herblore - Max XP Potions**
+**1-52** Various Methods
+[0.000008 $/xp] **XP** 123,660
+**52-81** Max Xp Potions
+[0.000005 $/xp] **XP** 2,069,158
+**81-99** Various Methods
+[0.000004 $/xp] **XP** 10,841,613
+
+
+For more detailed prices, please go to #price-check and use the following command: ```!s herblore 1-99```
