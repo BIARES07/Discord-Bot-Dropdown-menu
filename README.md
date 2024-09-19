@@ -17,3 +17,8 @@ prompting the bot to send a message containing the relevant price list.
 * This was the first bot I developed, so it doesn't follow the best development techniques.
 
 * This bot was made in an old version of python (3.8.7) library so I'm leaving this project as *outdated*
+
+* the following dependencies are used:
+   * python 3.8.7
+   * py-cord library
+   * os library
